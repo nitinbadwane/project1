@@ -842,7 +842,7 @@ void received_data()
                       setPowerStateOnServer("5fbc93a0aedf812fa2c1612e","OFF");
                       break;
                                                                                                                          
-         Serial.println("---------------------xxxxx--------------------");
+         
       }    
    }
 }
